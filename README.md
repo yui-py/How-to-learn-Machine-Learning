@@ -7,20 +7,29 @@
  * [日課表](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#日課表)
 * [モチベーション](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#モチベーション)
  * [Python](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#Python)
+   * [Numpy](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#numpy)
  * [機械学習](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#機械学習)
+   * [Regression](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#regression)
+   * [Classification](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#classification)
    * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
    * [データの分析](https://github.com/youngvn/How-to-learn-Machine-Learning#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%88%86%E6%9E%90)
    * [データの前処理](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#データの前処理)
    * [学習アルゴリズムの評価](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#学習アルゴリズムの評価)
    * [改善 (Improve Results)](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#改善 (Improve Results))
  * [ディープラーニング](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#ディープラーニング)
-    * [Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#deep-learning-with-python---jason-brownlee)
+    * [[Book]Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-deep-learning-with-python---jason-brownlee)
+    * [[Book]Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-long-short-term-memory---jason-brownlee)
+    * [Recurrent Neural Network](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#recurrent-neural-network)
+ * [Tutorial](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#tutorial)
+    * Guide to training and deploying machine learning models using Python
+    * Linear Regression on Boston Housing Dataset
+
 ## 日課表
  We learn driving a car — by driving. Not by learning how the clutch and the internal combustion engine work.
 ## モチベーション
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
 ## [Python](https://notebooks.azure.com/young/projects/learnai/tree/Python)
- * [Numpy](https://notebooks.azure.com/young/projects/learnai/tree/Python)
+ * Numpy
    * [Numpy Tutorial](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyTutorial%20%5BPart%201%5D.ipynb)
    * [NumPy - Iterating Over Array](https://learnai-young.notebooks.azure.com/j/notebooks/Python/Numpyt_IteratingOverArray.ipynb)
    * [Numpy Arrays And Vectorized Computation](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyArraysAndVectorizedComputation.ipynb)
