@@ -5,14 +5,14 @@
 
 ## 目次
  * [日課表](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#日課表)
-* [モチベーション] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#モチベーション)
+* [モチベーション](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#モチベーション)
  * [Python](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#Python)
  * [機械学習](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#機械学習)
-   * [データの分析] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#データの分析)
-   * [データの前処理] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#データの前処理)
-   * [学習アルゴリズムの評価] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#学習アルゴリズムの評価)
-   * [改善 (Improve Results)] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#改善 (Improve Results))
-   * [結果をまとめる (Present Results)] (https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#結果をまとめる (Present Results))
+   * [データの分析](https://github.com/youngvn/How-to-learn-Machine-Learning#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%88%86%E6%9E%90)
+   * [データの前処理](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#データの前処理)
+   * [学習アルゴリズムの評価](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#学習アルゴリズムの評価)
+   * [改善 (Improve Results)](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#改善 (Improve Results))
+   * [結果をまとめる (Present Results)](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#結果をまとめる (Present Results))
  * [ディープラーニング](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#ディープラーニング)
 
 ## 日課表
@@ -26,4 +26,4 @@
 ### 学習アルゴリズムの評価
 ### 改善 (Improve Results)
 ### 結果をまとめる (Present Results)
-## ディープラーニング
+## ディープラーニング 
