@@ -1,6 +1,5 @@
 ## はじめに
-これはソフトウェアエンジニアから機械学習エンジニアになるために私の勉強法
-
+これはソフトウェアエンジニアから機械学習エンジニアになるために私の勉強法です。
 私はAI業界に転職する予定です。私はIT業界で働いて3年が経過しました。 私はソフトウェア工学という学位を取得しました。. ベトナム国家大学で微分積分(Calculus), 線型代数学(Linear Algebra), 離散数学（Discrete Mathematics）, 確率・統計(Probability & Statistics) を学びました。
 
 ## 目次
@@ -8,7 +7,7 @@
 * [モチベーション](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#モチベーション)
  * [Python](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#Python)
  * [機械学習](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#機械学習)
-   * [Book] Machine Learning Mastery With Python - Jason Brownlee
+   * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
    * [データの分析](https://github.com/youngvn/How-to-learn-Machine-Learning#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%88%86%E6%9E%90)
    * [データの前処理](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#データの前処理)
    * [学習アルゴリズムの評価](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#学習アルゴリズムの評価)
@@ -17,6 +16,7 @@
  * [ディープラーニング](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#ディープラーニング)
     * [Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#deep-learning-with-python---jason-brownlee)
 ## 日課表
+ We learn driving a car — by driving. Not by learning how the clutch and the internal combustion engine work.
 ## モチベーション
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
 ## Python
@@ -42,6 +42,11 @@
  * [Chapter20.Regression Machine Learning Case Study Project]
  * [Chapter21.Binary Classification Machine Learning Case Study Project](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter21.BinaryClassificationMachineLearningCaseStudyProject.ipynb)
 ### データの分析
+ * [A Conceptual Framework for Data Visualization] (https://learnai-young.notebooks.azure.com/j/notebooks/DataVisualization/A%20Conceptual%20Framework%20for%20Data%20Visualization.ipynb)
+ * [Matplotlib basic](https://learnai-young.notebooks.azure.com/j/notebooks/DataVisualization/%5B20181004%5DMatplotlib_Basic.ipynb)
+ * [Density and Contour Plots](https://learnai-young.notebooks.azure.com/j/notebooks/DataVisualization/%5BDay%201%5D%20Density%20and%20Contour%20Plots.ipynb)
+ * [PythonDataAnalyticsAndVisualization_Chapter4.Data Visualization](https://learnai-young.notebooks.azure.com/j/notebooks/DataVisualization/PythonDataAnalyticsAndVisualization/Chapter4.Data%20Visualization.ipynb)
+ * [Matplotlib Scatter plot](https://learnai-young.notebooks.azure.com/j/notebooks/DataVisualization/MatplotlibScatterplot.ipynb)
 ### データの前処理
 ### 学習アルゴリズムの評価
 ### 改善 (Improve Results)
