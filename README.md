@@ -21,6 +21,8 @@
  * [Tutorial](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#tutorial)
     * Guide to training and deploying machine learning models using Python
     * Linear Regression on Boston Housing Dataset
+ * [Course](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#course)
+    * [Practical Deep Learning for Coders](https://)    
  * [読んだ本 ]
     * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
     * [[Book]Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-deep-learning-with-python---jason-brownlee)
@@ -64,10 +66,13 @@
 #### Recurrent Neural Network
   * [RNN Intiuition](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/RNN_Intiuition.ipynb)
   * [Build RNN Stock Market](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/BuildRNN.ipynb)
-
+  * [RNN：時系列データを扱うRecurrent Neural Networksとは](https://deepage.net/deep_learning/2017/05/23/recurrent-neural-networks.html)
 #### Convolutional Neural Network
   * [定番のConvolutional Neural Networkをゼロから理解する](https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html)
-  
+#### Others
+  * [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
+  * [Gradient Descent: All You Need to Know](https://hackernoon.com/gradient-descent-aynk-7cbe95a778da)
+  * [Gradient Descent in a Nutshell](https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0)
 ## Tutorial
   * [Guide to training and deploying machine learning models using Python](https://learnai-young.notebooks.azure.com/j/notebooks/Medium/Guide%20to%20training%20and%20deploying%20machine%20learning%20models%20using%20Python.ipynb)
   * [Linear Regression on Boston Housing Dataset](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBlog%5DTutorial/Linear%20Regression%20on%20Boston%20Housing%20Dataset.ipynb)
