@@ -17,14 +17,14 @@
    * [改善 (Improve Results)](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#改善 (Improve Results))
  * [ディープラーニング](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#ディープラーニング)
     * [Recurrent Neural Network](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#recurrent-neural-network)
-    * [Convolutional Neural Network](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#convolutional-neural-network)
+    * [https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#convolutional-neural-network)
  * [Tutorial](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#tutorial)
     * Guide to training and deploying machine learning models using Python
     * Linear Regression on Boston Housing Dataset
  * [読んだ本 ]
+    * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
     * [[Book]Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-deep-learning-with-python---jason-brownlee)
     * [[Book]Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-long-short-term-memory---jason-brownlee)
-    * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
 
 ## 日課表
  We learn driving a car — by driving. Not by learning how the clutch and the internal combustion engine work.
@@ -61,24 +61,6 @@
 ### 改善 (Improve Results)
  * [Improve Your Model Performance Using Cross Validation](https://learnai-young.notebooks.azure.com/j/notebooks/DataPreprocessing/ImproveYourModelPerformanceUsingCrossValidation.ipynb)
 ## ディープラーニング
-#### [[Book] Deep Learning with Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee)
-  * [Chapter2.Introduction To Theano](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
-  * [Chapter3.Introduction to TensorFlow](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
-  * [Chapter4.Introduction to Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter4.IntroductiontoKeras.ipynb)
-  * Chapter 5. Project: Develop Large Models on GPUs Cheaply In the Cloud(AWS)
-  * [Chapter6.Crash Course In Multi-Layer Perceptrons](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter6.CrashCourseInMulti-LayerPerceptrons.ipynb)
-  * [Chapter7. Develop Your First Neural Network With keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter7.%20Develop%20Your%20First%20Neural%20Network%20With%20keras.ipynb)
-  * [Chapter 8. Evaluate The Performance of Deep Learning Models](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%208.%20Evaluate%20The%20Performance%20of%20Deep%20Learning%20Models.ipynb)
-  * [Chapter 9. Use Keras Models With Scikit-Learn For General Machine Learning](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%209.%20Use%20Keras%20Models%20With%20Scikit-Learn%20For%20General%20Machine%20Learning.ipynb)
-  * [Chapter 10. Project:Multiclass Classification Of Flower Species](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%2010.%20Project_Multiclass%20Classification%20Of%20Flower%20Species.ipynb)
-
-#### [[Book] Long Short Term Memory - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DLong%20Short-Term%20Memory%20Networks)
-  * [Understanding LSTM Networks](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Understanding%20LSTM%20Networks.ipynb)
-  * [Chapter1.What are LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter1.What%20are%20LSTMs.ipynb)
-  * [Chapter2.How to Train LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter2.How%20to%20Train%20LSTMs.ipynb)
-  * [Chapter3.How to Prepare Data for LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter3.How%20to%20Prepare%20Data%20for%20LSTMs.ipynb)
-  * [Chapter4. How to Develop LSTMs in Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter4.%20How%20to%20Develop%20LSTMs%20in%20Keras.ipynb)
-
 #### Recurrent Neural Network
   * [RNN Intiuition](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/RNN_Intiuition.ipynb)
   * [Build RNN Stock Market](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/BuildRNN.ipynb)
@@ -112,3 +94,21 @@
       * [Chapter19.Your First Machine Learning Project in Python Step By Step](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter19.YourFirstMachineLearningProjectinPythonStepByStep.ipynb)
      * [Chapter20.Regression Machine Learning Case Study Project]
      * [Chapter21.Binary Classification Machine Learning Case Study Project](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter21.BinaryClassificationMachineLearningCaseStudyProject.ipynb)
+     
+#### [[Book] Deep Learning with Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee)
+  * [Chapter2.Introduction To Theano](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
+  * [Chapter3.Introduction to TensorFlow](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
+  * [Chapter4.Introduction to Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter4.IntroductiontoKeras.ipynb)
+  * Chapter 5. Project: Develop Large Models on GPUs Cheaply In the Cloud(AWS)
+  * [Chapter6.Crash Course In Multi-Layer Perceptrons](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter6.CrashCourseInMulti-LayerPerceptrons.ipynb)
+  * [Chapter7. Develop Your First Neural Network With keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter7.%20Develop%20Your%20First%20Neural%20Network%20With%20keras.ipynb)
+  * [Chapter 8. Evaluate The Performance of Deep Learning Models](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%208.%20Evaluate%20The%20Performance%20of%20Deep%20Learning%20Models.ipynb)
+  * [Chapter 9. Use Keras Models With Scikit-Learn For General Machine Learning](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%209.%20Use%20Keras%20Models%20With%20Scikit-Learn%20For%20General%20Machine%20Learning.ipynb)
+  * [Chapter 10. Project:Multiclass Classification Of Flower Species](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%2010.%20Project_Multiclass%20Classification%20Of%20Flower%20Species.ipynb)
+
+#### [[Book] Long Short Term Memory - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DLong%20Short-Term%20Memory%20Networks)
+  * [Understanding LSTM Networks](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Understanding%20LSTM%20Networks.ipynb)
+  * [Chapter1.What are LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter1.What%20are%20LSTMs.ipynb)
+  * [Chapter2.How to Train LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter2.How%20to%20Train%20LSTMs.ipynb)
+  * [Chapter3.How to Prepare Data for LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter3.How%20to%20Prepare%20Data%20for%20LSTMs.ipynb)
+  * [Chapter4. How to Develop LSTMs in Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter4.%20How%20to%20Develop%20LSTMs%20in%20Keras.ipynb)
