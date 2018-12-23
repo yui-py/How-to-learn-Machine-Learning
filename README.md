@@ -66,15 +66,18 @@
   * [Build RNN Stock Market](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/BuildRNN.ipynb)
 
 #### Convolutional Neural Network
-  * [Convolutional Neural Network](https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html)
+  * [定番のConvolutional Neural Networkをゼロから理解する](https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html)
   
 ## Tutorial
   * [Guide to training and deploying machine learning models using Python](https://learnai-young.notebooks.azure.com/j/notebooks/Medium/Guide%20to%20training%20and%20deploying%20machine%20learning%20models%20using%20Python.ipynb)
   * [Linear Regression on Boston Housing Dataset](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBlog%5DTutorial/Linear%20Regression%20on%20Boston%20Housing%20Dataset.ipynb)
 
 ## Course
-   * Practical Deep Learning for Coders
-
+   * [Practical Deep Learning for Coders](https://course.fast.ai/)
+      * [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+      * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
+      * [Lesson 1 note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
+      * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
 ## Book
    * [Machine Learning Mastery With Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee)
       * [Chapter5.Understand Your Data With Descriptive Statistics](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter5.UnderstandYourDataWithDescriptiveStatistics.ipynb)
