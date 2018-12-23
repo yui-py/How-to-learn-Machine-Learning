@@ -17,7 +17,8 @@
    * [改善 (Improve Results)](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#改善 (Improve Results))
  * [ディープラーニング](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#ディープラーニング)
     * [Recurrent Neural Network](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#recurrent-neural-network)
-    * [https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#convolutional-neural-network)
+    * [Convolutional_Neural_Network.html](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#convolutional-neural-network)
+    * [Others](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#others)
  * [Tutorial](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#tutorial)
     * Guide to training and deploying machine learning models using Python
     * Linear Regression on Boston Housing Dataset
@@ -83,6 +84,7 @@
       * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
       * [Lesson 1 note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
       * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
+      * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html) 
 ## Book
    * [Machine Learning Mastery With Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee)
       * [Chapter5.Understand Your Data With Descriptive Statistics](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter5.UnderstandYourDataWithDescriptiveStatistics.ipynb)
