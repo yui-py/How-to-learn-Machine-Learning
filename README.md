@@ -40,6 +40,7 @@
    * [Numpy Arrays And Vectorized Computation](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyArraysAndVectorizedComputation.ipynb)
 ## データマイニング・機械学習分野の概要
  * [データマイニング・機械学習分野の概要 - 神嶌 敏弘 ](http://www.kamishima.net/archive/mldm-overview.pdf)
+ * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 ## 機械学習
 #### 回帰(Regression)
   * [線形回帰 Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb) 
@@ -70,6 +71,8 @@
   * [RNN：時系列データを扱うRecurrent Neural Networksとは](https://deepage.net/deep_learning/2017/05/23/recurrent-neural-networks.html)
 #### Convolutional Neural Network
   * [定番のConvolutional Neural Networkをゼロから理解する](https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html)
+#### Long Short Term Memory
+  * [Understanding LSTM Networks](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Understanding%20LSTM%20Networks.ipynb)
 #### Others
   * [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
   * [Gradient Descent: All You Need to Know](https://hackernoon.com/gradient-descent-aynk-7cbe95a778da)
@@ -82,9 +85,12 @@
    * [Practical Deep Learning for Coders](https://course.fast.ai/)
       * [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
       * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
-      * [Lesson 1 note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
+      * [Lesson 1 Annotated note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
       * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
       * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html) 
+      * [Lesson 2 Annotated note from @amritv](https://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf)
+      * [Lesson 2 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4)
+      * [Lesson2 Lecture Notes from @timlee](https://forums.fast.ai/t/deeplearning-lecnotes2/7515)
 ## Book
    * [Machine Learning Mastery With Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee)
       * [Chapter5.Understand Your Data With Descriptive Statistics](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter5.UnderstandYourDataWithDescriptiveStatistics.ipynb)
@@ -117,7 +123,6 @@
      * [Chapter 10. Project:Multiclass Classification Of Flower Species](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%2010.%20Project_Multiclass%20Classification%20Of%20Flower%20Species.ipynb)
 
   * [Long Short Term Memory - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DLong%20Short-Term%20Memory%20Networks)
-     * [Understanding LSTM Networks](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Understanding%20LSTM%20Networks.ipynb)
      * [Chapter1.What are LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter1.What%20are%20LSTMs.ipynb)
      * [Chapter2.How to Train LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter2.How%20to%20Train%20LSTMs.ipynb)
      * [Chapter3.How to Prepare Data for LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter3.How%20to%20Prepare%20Data%20for%20LSTMs.ipynb)
