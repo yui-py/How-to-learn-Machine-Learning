@@ -24,10 +24,10 @@
     * Linear Regression on Boston Housing Dataset
  * [Course](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#course)
     * [Practical Deep Learning for Coders](https://)    
- * [読んだ本 ]
-    * [[Book] Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-machine-learning-mastery-with-python---jason-brownlee)
-    * [[Book]Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-deep-learning-with-python---jason-brownlee)
-    * [[Book]Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/README.md#book-long-short-term-memory---jason-brownlee)
+ * [読んだ本 ](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
+    * [Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
+    * [Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
+    * [Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
 
 ## 日課表
  We learn driving a car — by driving. Not by learning how the clutch and the internal combustion engine work.
