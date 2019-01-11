@@ -1,5 +1,5 @@
 ## はじめに
-これはソフトウェアエンジニアから機械学習エンジニアになるために私の勉強法です。 
+これはソフトウェアエンジニアから機械学習エンジニアになるために私の勉強法です。
 
 私は新しいことを学ぶことが好きです。今は機械学習やレコメンダシステムに興味があります。 ソフトウェア工学という学位を取得し、IT業界で働いて3年が経過しました。ベトナム国家大学で微分積分(Calculus), 線型代数学(Linear Algebra), 離散数学（Discrete Mathematics）, 確率・統計(Probability & Statistics) を学びました。
 
@@ -31,6 +31,7 @@
 
 ## 日課表
  We learn driving a car — by driving. Not by learning how the clutch and the internal combustion engine work.
+
 ## モチベーション
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
 ## [Python](https://notebooks.azure.com/young/projects/learnai/tree/Python)
@@ -43,7 +44,7 @@
  * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 ## 機械学習
 #### 回帰(Regression)
-  * [線形回帰 Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb) 
+  * [線形回帰 Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb)
 
 #### Classification
   * [Logistic Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Classification/%5BAI%20Day3%5DLogisticRegression.ipynb)
@@ -87,7 +88,7 @@
       * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
       * [Lesson 1 Annotated note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
       * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
-      * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html) 
+      * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
       * [Lesson 2 Annotated note from @amritv](https://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf)
       * [Lesson 2 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4)
       * [Lesson2 Lecture Notes from @timlee](https://forums.fast.ai/t/deeplearning-lecnotes2/7515)
@@ -110,15 +111,15 @@
       * [Chapter19.Your First Machine Learning Project in Python Step By Step](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter19.YourFirstMachineLearningProjectinPythonStepByStep.ipynb)
      * [Chapter20.Regression Machine Learning Case Study Project]
      * [Chapter21.Binary Classification Machine Learning Case Study Project](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter21.BinaryClassificationMachineLearningCaseStudyProject.ipynb)
-     
+
   * [Deep Learning with Python - Jason Brownlee](https://notebooks.azure.com/young/projects/learnai/tree/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee)
-     * [Chapter2.Introduction To Theano](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
-     * [Chapter3.Introduction to TensorFlow](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
-     * [Chapter4.Introduction to Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter4.IntroductiontoKeras.ipynb)
+     * [Chapter2.Introduction To Theano](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
+     * [Chapter3.Introduction to TensorFlow](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
+     * [Chapter4.Introduction to Keras](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter4.IntroductiontoKeras.ipynb)
      * Chapter 5. Project: Develop Large Models on GPUs Cheaply In the Cloud(AWS)
-     * [Chapter6.Crash Course In Multi-Layer Perceptrons](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter6.CrashCourseInMulti-LayerPerceptrons.ipynb)
-     * [Chapter7. Develop Your First Neural Network With keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter7.%20Develop%20Your%20First%20Neural%20Network%20With%20keras.ipynb)
-     * [Chapter 8. Evaluate The Performance of Deep Learning Models](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%208.%20Evaluate%20The%20Performance%20of%20Deep%20Learning%20Models.ipynb)
+     * [Chapter6.Crash Course In Multi-Layer Perceptrons](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter6.CrashCourseInMulti-LayerPerceptrons.ipynb)
+     * [Chapter7. Develop Your First Neural Network With keras](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter7.%20Develop%20Your%20First%20Neural%20Network%20With%20keras.ipynb)
+     * [Chapter 8. Evaluate The Performance of Deep Learning Models](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%208.%20Evaluate%20The%20Performance%20of%20Deep%20Learning%20Models.ipynb)
      * [Chapter 9. Use Keras Models With Scikit-Learn For General Machine Learning](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%209.%20Use%20Keras%20Models%20With%20Scikit-Learn%20For%20General%20Machine%20Learning.ipynb)
      * [Chapter 10. Project:Multiclass Classification Of Flower Species](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DDeepLearningwithPython%20-%20Jason%20Brownlee/Chapter%2010.%20Project_Multiclass%20Classification%20Of%20Flower%20Species.ipynb)
 
