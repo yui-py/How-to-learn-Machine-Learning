@@ -34,11 +34,6 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
  * [Tutorial](#tutorial)
     * Guide to training and deploying machine learning models using Python
     * Linear Regression on Boston Housing Dataset
- * [Course](#course)
-    * [Practical Deep Learning for Coders](https://)    
- * [Books ](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
-    * [Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
-    * [Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
 
 ## Motivation
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
@@ -73,7 +68,7 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
   - [Chapter21.Binary Classification Machine Learning Case Study Project]()
 
   </details>
-  
+
 ### Regression
   * [Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb)
 ### Classification
@@ -98,8 +93,8 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 <details>
 <summary>Details</summary>
 
-- [Chapter2.Introduction To Theano](#Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
-- [Chapter3.Introduction to TensorFlow](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
+- [Chapter2.Introduction To Theano](/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter2.IntroductionToTheano.ipynb)
+- [Chapter3.Introduction to TensorFlow](/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter3.IntroductiontoTensorFlow.ipynb)
 - [Chapter4.Introduction to Keras](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter4.IntroductiontoKeras.ipynb)
 - Chapter 5. Project: Develop Large Models on GPUs Cheaply In the Cloud(AWS)
 - [Chapter6.Crash Course In Multi-Layer Perceptrons](https://github.com/youngvn/How-to-learn-Machine-Learning/blob/master/Books/DeepLearningwithPython%20-%20Jason%20Brownlee/Chapter6.CrashCourseInMulti-LayerPerceptrons.ipynb)
