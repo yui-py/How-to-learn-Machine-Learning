@@ -53,8 +53,8 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 ### Machine Learning Mastery With Python - Jason Brownlee
   <details>
   <summary>Details</summary>
-  - [Chapter5.Understand Your Data With Descriptive Statistics]()
-  - [Chapter6.Understand Your Data With Visualization]()
+- [Chapter5.Understand Your Data With Descriptive Statistics]()
+- [Chapter6.Understand Your Data With Visualization]()
   - [Chapter7.Prepare Your Data For Machine Learning]()
   - [Chapter8. Feature Selection For Machine Learning]()
   - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling]()
