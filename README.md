@@ -26,9 +26,8 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
    * [Classification](#classification)
    * [Visualization](#Visualization)
    * [Preprocessing](#Preprocessing)
-   * [Model Evaluation](#Model Evaluation)
-   * [Improve Results](#Improve Results)
- * [Deep Learning](#Deep Learning)
+   * [Improve Results](#improve-results)
+ * [Deep Learning](#deep-learning)
     * [Recurrent Neural Network](#recurrent-neural-network)
     * [Convolutional_Neural_Network.html](#convolutional-neural-network)
     * [Others](#others)
@@ -52,31 +51,32 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 ## データマイニング・機械学習分野の概要
  * [データマイニング・機械学習分野の概要 - 神嶌 敏弘 ](http://www.kamishima.net/archive/mldm-overview.pdf)
 ## Machine Learning
-#### Machine Learning Mastery With Python - Jason Brownlee
+### Machine Learning Mastery With Python - Jason Brownlee
   <details>
   <summary>Details</summary>
-  - [Chapter5.Understand Your Data With Descriptive Statistics](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter5.UnderstandYourDataWithDescriptiveStatistics.ipynb)
-  - [Chapter6.Understand Your Data With Visualization](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter6.UnderstandYourDataWithVisualization.ipynb)
-  - [Chapter7.Prepare Your Data For Machine Learning](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter7.PrepareYourDataForMachineLearning.ipynb)
-  - [Chapter8. Feature Selection For Machine Learning](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter8.%20Feature%20Selection%20For%20Machine%20Learning.ipynb)
-  - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter9.EvaluatePerformanceMachineLEarningAlgorithmsResamling.ipynb)
-  - [Chapter10.Machine Learning Algorithm Performance Metrics](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter10.MachineLearning%20AlgorithmPerformanceMetrics.ipynb)
-  - [Chapter11.Spot Check Classification Algorithms](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter11.SpotCheckClassificationAlgorithms.ipynb)
-  - [Chapter12.Spot-Check Regresssion Algorithms Do](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter12.Spot-CheckRegresssionAlgorithms%20Do.ipynb)
-  - [Chapter13.Compare Machine Learning Algorithms](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter13.CompareMachineLearningAlgorithms.ipynb)
-  - [Chapter14.Automate Machine Learning Workflows With Pipelines](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter14.AutomateMachineLearningWorkflowsWithPipelines.ipynb)
+  - [Chapter5.Understand Your Data With Descriptive Statistics]()
+  - [Chapter6.Understand Your Data With Visualization]()
+  - [Chapter7.Prepare Your Data For Machine Learning]()
+  - [Chapter8. Feature Selection For Machine Learning]()
+  - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling]()
+  - [Chapter10.Machine Learning Algorithm Performance Metrics]()
+  - [Chapter11.Spot Check Classification Algorithms]()
+  - [Chapter12.Spot-Check Regression Algorithms Do]()
+  - [Chapter13.Compare Machine Learning Algorithms]()
+  - [Chapter14.Automate Machine Learning Workflows With Pipelines]()
   - [Chapter15.Improve Performance with Ensembles]()
   - [Chapter16.Improve Performance with Algorithm Tuning]
   - [Chapter17.Save and Load Machine Learning Models]
-  - [Chapter18.Predictive Modeling Project Template](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter18.PredictiveModelingProjectTemplate.ipynb)
-  - [Chapter19.Your First Machine Learning Project in Python Step By Step](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter19.YourFirstMachineLearningProjectinPythonStepByStep.ipynb)
+  - [Chapter18.Predictive Modeling Project Template]()
+  - [Chapter19.Your First Machine Learning Project in Python Step By Step]()
   - [Chapter20.Regression Machine Learning Case Study Project]
-  - [Chapter21.Binary Classification Machine Learning Case Study Project](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DMachineLearningMasteryWithPython%20%20-%20Jason%20Brownlee/Chapter21.BinaryClassificationMachineLearningCaseStudyProject.ipynb)
+  - [Chapter21.Binary Classification Machine Learning Case Study Project]()
   </details>
-#### Regression
+
+### Regression
   * [Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb)
 
-#### Classification
+### Classification
   * [Logistic Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Classification/%5BAI%20Day3%5DLogisticRegression.ipynb)
   * [k-Nearest Neighbors](https://learnai-young.notebooks.azure.com/j/notebooks/Classification/%5BAI%20Day4%5DKNN.ipynb)
 
