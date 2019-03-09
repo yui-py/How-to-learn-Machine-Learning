@@ -37,7 +37,6 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
  * [Course](#course)
     * [Practical Deep Learning for Coders](https://)    
  * [Books ](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
-    * [Machine Learning Mastery With Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
     * [Deep Learning with Python - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
     * [Long Short Term Memory - Jason Brownlee](https://github.com/youngvn/How-to-learn-Machine-Learning#book)
 
