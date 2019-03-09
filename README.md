@@ -51,11 +51,12 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
  * [データマイニング・機械学習分野の概要 - 神嶌 敏弘 ](http://www.kamishima.net/archive/mldm-overview.pdf)
 ## Machine Learning
 ### Machine Learning Mastery With Python - Jason Brownlee
-  <details>
-  <summary>Details</summary>
+<details>
+<summary>Details</summary>
+
 - [Chapter5.Understand Your Data With Descriptive Statistics]()
 - [Chapter6.Understand Your Data With Visualization]()
-  - [Chapter7.Prepare Your Data For Machine Learning]()
+- [Chapter7.Prepare Your Data For Machine Learning]()
   - [Chapter8. Feature Selection For Machine Learning]()
   - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling]()
   - [Chapter10.Machine Learning Algorithm Performance Metrics]()
@@ -70,7 +71,8 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
   - [Chapter19.Your First Machine Learning Project in Python Step By Step]()
   - [Chapter20.Regression Machine Learning Case Study Project]
   - [Chapter21.Binary Classification Machine Learning Case Study Project]()
-  </details>
+
+</details>
 
 ### Regression
   * [Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb)
