@@ -73,6 +73,7 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
   - [Chapter21.Binary Classification Machine Learning Case Study Project]()
 
   </details>
+  
 ### Regression
   * [Simple Linear Regression](https://learnai-young.notebooks.azure.com/j/notebooks/Regression/%5BAI_DayX%5DSimpleLinearRegression.ipynb)
 ### Classification
@@ -118,15 +119,16 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 - [Chapter4. How to Develop LSTMs in Keras](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter4.%20How%20to%20Develop%20LSTMs%20in%20Keras.ipynb)
 
 </details>
+
 ### [Practical Deep Learning for Coders](https://course.fast.ai/)
-   * [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
-   * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
-   * [Lesson 1 Annotated note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
-   * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
-   * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
-   * [Lesson 2 Annotated note from @amritv](https://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf)
-   * [Lesson 2 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4)
-   * [Lesson2 Lecture Notes from @timlee](https://forums.fast.ai/t/deeplearning-lecnotes2/7515)
+  * [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+  * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
+  * [Lesson 1 Annotated note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
+  * [Fast.ai: What I Learned from Lessons 1–3](https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff)
+  * [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
+  * [Lesson 2 Annotated note from @amritv](https://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf)
+  * [Lesson 2 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4)
+  * [Lesson2 Lecture Notes from @timlee](https://forums.fast.ai/t/deeplearning-lecnotes2/7515)
 
 #### Recurrent Neural Network
   * [RNN Intiuition](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/RNN_Intiuition.ipynb)
