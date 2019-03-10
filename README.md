@@ -20,30 +20,41 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 * [Motivation](#Motivation)
  * [Python](#Python)
    * [Numpy](#numpy)
+ * [Machine Learning Overview](#machine-learning)   
  * [Machine Learning](#machine-learning)
-   * [Machine Learning Mastery With Python - Jason Brownlee](#Machine Learning Mastery With Python - Jason Brownlee)
+   * [Machine Learning Mastery With Python - Jason Brownlee](#machine-learning-mastery-with-python---jason-brownlee)
    * [Regression](#regression)
    * [Classification](#classification)
    * [Visualization](#Visualization)
    * [Preprocessing](#Preprocessing)
    * [Improve Results](#improve-results)
+   * [Example ML](#example-ml)
  * [Deep Learning](#deep-learning)
-    * [Recurrent Neural Network](#recurrent-neural-network)
-    * [Convolutional_Neural_Network.html](#convolutional-neural-network)
-    * [Others](#others)
- * [Tutorial](#tutorial)
-    * Guide to training and deploying machine learning models using Python
-    * Linear Regression on Boston Housing Dataset
+   * [Deep Learning with Python - Jason Brownlee](#)
+   * [Long Short Term Memory - Jason Brownlee](#)
+   * [Recurrent Neural Network](#recurrent-neural-network)
+   * [Convolutional_Neural_Network.html](#convolutional-neural-network)
+   * [Others](#others)
+   * [Practical Deep Learning for Coders](#)
+   * [TensorFlow](#)
+   * [End-to-End Machine Learning with TensorFlow on GCP](#)
 
 ## Motivation
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
-## [Python](https://notebooks.azure.com/young/projects/learnai/tree/Python)
+## Python
+<details>
+<summary>Details</summary>
+
  * Numpy
    * [Numpy Tutorial](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyTutorial%20%5BPart%201%5D.ipynb)
    * [NumPy - Iterating Over Array](https://learnai-young.notebooks.azure.com/j/notebooks/Python/Numpyt_IteratingOverArray.ipynb)
    * [Numpy Arrays And Vectorized Computation](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyArraysAndVectorizedComputation.ipynb)
-## データマイニング・機械学習分野の概要
+
+</details>
+
+## Machine Learning Overview
  * [データマイニング・機械学習分野の概要 - 神嶌 敏弘 ](http://www.kamishima.net/archive/mldm-overview.pdf)
+
 ## Machine Learning
 ### Machine Learning Mastery With Python - Jason Brownlee
   <details>
@@ -88,6 +99,11 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
  * [Feature selection for supervised models using SelectKBest](https://learnai-young.notebooks.azure.com/j/notebooks/DataPreprocessing/Feature%20selection%20for%20supervised%20models%20using%20SelectKBest.ipynb)
 ### Improve Results
  * [Improve Your Model Performance Using Cross Validation](https://learnai-young.notebooks.azure.com/j/notebooks/DataPreprocessing/ImproveYourModelPerformanceUsingCrossValidation.ipynb)
+
+### Example
+   * [Guide to training and deploying machine learning models using Python](https://learnai-young.notebooks.azure.com/j/notebooks/Medium/Guide%20to%20training%20and%20deploying%20machine%20learning%20models%20using%20Python.ipynb)
+   * [Linear Regression on Boston Housing Dataset](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBlog%5DTutorial/Linear%20Regression%20on%20Boston%20Housing%20Dataset.ipynb)
+
 ## Deep Learning
 ### Deep Learning with Python - Jason Brownlee
 <details>
@@ -143,6 +159,3 @@ I learned the foundations of Deep Learning:Convolutional networks, RNNs, LSTM, A
 
 #### TensorFlow
 #### [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp)
-## Tutorial
-  * [Guide to training and deploying machine learning models using Python](https://learnai-young.notebooks.azure.com/j/notebooks/Medium/Guide%20to%20training%20and%20deploying%20machine%20learning%20models%20using%20Python.ipynb)
-  * [Linear Regression on Boston Housing Dataset](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBlog%5DTutorial/Linear%20Regression%20on%20Boston%20Housing%20Dataset.ipynb)
