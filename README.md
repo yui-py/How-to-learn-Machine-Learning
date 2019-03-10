@@ -44,9 +44,10 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 ## Python
 <details>
 <summary>Numpy</summary>
-   * [Numpy Foundations](/Numpy/1.%20Numpy%20Foundation.ipynb)
-   * [NumPy - Iterating Over Array](/Numpy/2.%20NumpyArraysAndVectorizedComputation.ipynb)
-   * [Numpy Arrays And Vectorized Computation](/Numpy/3.%20Numpy%20IteratingOverArray.ipynb)
+
+- [Numpy Foundations](/Numpy/1.%20Numpy%20Foundation.ipynb)
+- [NumPy - Iterating Over Array](/Numpy/2.%20NumpyArraysAndVectorizedComputation.ipynb)
+- [Numpy Arrays And Vectorized Computation](/Numpy/3.%20Numpy%20IteratingOverArray.ipynb)
 
 </details>
 
