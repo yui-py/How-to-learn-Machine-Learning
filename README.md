@@ -33,7 +33,7 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
    * [Deep Learning with Python - Jason Brownlee](#)
    * [Long Short Term Memory - Jason Brownlee](#)
    * [Recurrent Neural Network](#recurrent-neural-network)
-   * [Convolutional_Neural_Network.html](#convolutional-neural-network)
+   * [Convolutional_Neural_Network](#convolutional-neural-network)
    * [Others](#others)
    * [Practical Deep Learning for Coders](#)
    * [TensorFlow](#)
