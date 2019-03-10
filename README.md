@@ -121,7 +121,7 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 
 ### Long Short Term Memory - Jason Brownlee
 <details>
-<summary>Details</summary>
+<summary>Long Short Term Memory - Jason Brownlee</summary>
 
 - [Chapter1.What are LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter1.What%20are%20LSTMs.ipynb)
 - [Chapter2.How to Train LSTMs](https://learnai-young.notebooks.azure.com/j/notebooks/%5BBook%5DLong%20Short-Term%20Memory%20Networks/Chapter2.How%20to%20Train%20LSTMs.ipynb)
@@ -131,6 +131,9 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 </details>
 
 ### [Practical Deep Learning for Coders](https://course.fast.ai/)
+<details>
+<summary>Practical Deep Learning for Coders</summary>
+
   * [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   * [Lesson 1 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
   * [Lesson 1 Annotated note from @zerotosingularity](https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/)
@@ -139,6 +142,8 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
   * [Lesson 2 Annotated note from @amritv](https://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf)
   * [Lesson 2 note from @hiromi](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4)
   * [Lesson2 Lecture Notes from @timlee](https://forums.fast.ai/t/deeplearning-lecnotes2/7515)
+
+</details>
 
 #### Recurrent Neural Network
   * [RNN Intiuition](https://learnai-young.notebooks.azure.com/j/notebooks/DeepLearning/RNN_Intiuition.ipynb)
@@ -159,3 +164,5 @@ I learned the foundations of Deep Learning:Convolutional networks, RNNs, LSTM, A
 #### TensorFlow
 #### [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp)
 ![End-to-End Machine Learning with TensorFlow on GCP](End-to-End%20Machine%20Learning%20with%20TensorFlow%20on%20GCP.png)
+#### [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning)
+I will learn Machine Learning Concepts, Knime, Apache Spark
