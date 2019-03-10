@@ -155,6 +155,7 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
 
 #### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 I learned the foundations of Deep Learning:Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I practice all these ideas in Python and in TensorFlow.
-
+![Deep Learning Specialization](Deep%20Learning%20Specialization.png)
 #### TensorFlow
 #### [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp)
+![End-to-End Machine Learning with TensorFlow on GCP](End-to-End%20Machine%20Learning%20with%20TensorFlow%20on%20GCP.png)
