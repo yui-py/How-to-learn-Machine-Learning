@@ -43,12 +43,10 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
  * [If I just simply don’t quit, I can’t not fail](https://www.facebook.com/startupinsiderAsia/videos/719208845130806)
 ## Python
 <details>
-<summary>Details</summary>
-
- * Numpy
-   * [Numpy Tutorial](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyTutorial%20%5BPart%201%5D.ipynb)
-   * [NumPy - Iterating Over Array](https://learnai-young.notebooks.azure.com/j/notebooks/Python/Numpyt_IteratingOverArray.ipynb)
-   * [Numpy Arrays And Vectorized Computation](https://learnai-young.notebooks.azure.com/j/notebooks/Python/NumpyArraysAndVectorizedComputation.ipynb)
+<summary>Numpy</summary>
+   * [Numpy Foundations](/Numpy/1.%20Numpy%20Foundation.ipynb)
+   * [NumPy - Iterating Over Array](/Numpy/2.%20NumpyArraysAndVectorizedComputation.ipynb)
+   * [Numpy Arrays And Vectorized Computation](/Numpy/3.%20Numpy%20IteratingOverArray.ipynb)
 
 </details>
 
