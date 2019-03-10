@@ -59,23 +59,23 @@ I use [Anki](https://apps.ankiweb.net/) to review on my phone, wherever I am.
   <details>
   <summary>Details</summary>
 
-  - [Chapter5.Understand Your Data With Descriptive Statistics]()
-  - [Chapter6.Understand Your Data With Visualization]()
-  - [Chapter7.Prepare Your Data For Machine Learning]()
-  - [Chapter8. Feature Selection For Machine Learning]()
-  - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling]()
-  - [Chapter10.Machine Learning Algorithm Performance Metrics]()
-  - [Chapter11.Spot Check Classification Algorithms]()
-  - [Chapter12.Spot-Check Regression Algorithms Do]()
-  - [Chapter13.Compare Machine Learning Algorithms]()
-  - [Chapter14.Automate Machine Learning Workflows With Pipelines]()
-  - [Chapter15.Improve Performance with Ensembles]()
+  - [Chapter5.Understand Your Data With Descriptive Statistics](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter5.UnderstandYourDataWithDescriptiveStatistics.ipynb)
+  - [Chapter6.Understand Your Data With Visualization](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter6.UnderstandYourDataWithVisualization.ipynb)
+  - [Chapter7.Prepare Your Data For Machine Learning](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter7.PrepareYourDataForMachineLearning.ipynb)
+  - [Chapter8. Feature Selection For Machine Learning](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter8.%20Feature%20Selection%20For%20Machine%20Learning.ipynb)
+  - [Chapter9.Evaluate Performance Machine Learning Algorithms Resamling](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter9.EvaluatePerformanceMachineLEarningAlgorithmsResamling.ipynb)
+  - [Chapter10.Machine Learning Algorithm Performance Metrics](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter10.MachineLearning%20AlgorithmPerformanceMetrics.ipynb)
+  - [Chapter11.Spot Check Classification Algorithms](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter11.SpotCheckClassificationAlgorithms.ipynb)
+  - [Chapter12.Spot-Check Regression Algorithms Do](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter12.Spot-CheckRegresssionAlgorithms%20Do.ipynb)
+  - [Chapter13.Compare Machine Learning Algorithms](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter13.CompareMachineLearningAlgorithms.ipynb)
+  - [Chapter14.Automate Machine Learning Workflows With Pipelines](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter14.AutomateMachineLearningWorkflowsWithPipelines.ipynb)
+  - [Chapter15.Improve Performance with Ensembles](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter15.ImprovePerformancewithEnsembles.ipynb)
   - [Chapter16.Improve Performance with Algorithm Tuning]
   - [Chapter17.Save and Load Machine Learning Models]
-  - [Chapter18.Predictive Modeling Project Template]()
-  - [Chapter19.Your First Machine Learning Project in Python Step By Step]()
+  - [Chapter18.Predictive Modeling Project Template](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter18.PredictiveModelingProjectTemplate.ipynb)
+  - [Chapter19.Your First Machine Learning Project in Python Step By Step](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter19.YourFirstMachineLearningProjectinPythonStepByStep.ipynb)
   - [Chapter20.Regression Machine Learning Case Study Project]
-  - [Chapter21.Binary Classification Machine Learning Case Study Project]()
+  - [Chapter21.Binary Classification Machine Learning Case Study Project](/Books/Machine%20Learning%20Mastery%20With%20Python%20-%20Jason%20Brownlee/Chapter21.BinaryClassificationMachineLearningCaseStudyProject.ipynb)
 
   </details>
 
